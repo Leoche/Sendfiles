@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "File upload website",
   "main": "index.js",
-  "dependencies": {
-    "gulp": "^3.9.1"
-  },
   "devDependencies": {
     "bower": "^1.7.9",
     "browser-sync": "^2.12.5",
