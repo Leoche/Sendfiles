@@ -1,0 +1,29 @@
+{
+  "name": "sendfil.es",
+  "description": "File upload website",
+  "main": "index.js",
+  "authors": [
+    "Leoche"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "upload",
+    "files",
+    "website"
+  ],
+  "homepage": "http://sendfil.es",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "normalize-css": "^4.1.1",
+    "dropzone": "^4.3.0",
+    "humane-js": "humane#^3.2.2"
+  }
+}
