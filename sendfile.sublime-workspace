@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"captcha",
+				"captcha_ok"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"votes",
+				"votes_by_month"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 63.0,
+		"last_filter": "sideb",
+		"selected_items":
+		[
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"Preferences: Settings - Default"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mii",
+				"View: Toggle Minimap"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/sendfil.es"
+	],
+	"file_history":
+	[
+		"/C/Users/Leoche/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp64/www/nationsglory/theme/site/js/main.js",
+		"/C/wamp64/www/Website-Starter/package.json",
+		"/C/wamp64/www/nationsglory/theme/site2/index.php",
+		"/C/Users/Leoche/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp64/www/nationsglory/content/site/index.php",
+		"/C/Users/Leoche/AppData/Roaming/Minecraft_server/dynmap/shaders.txt",
+		"/C/wamp64/www/Website-Starter/dist/css/.gitkeep",
+		"/C/Users/Leoche/AppData/Roaming/Minecraft_server/dynmap/worlds.txt",
+		"/C/Users/Leoche/AppData/Roaming/Minecraft_server/dynmap/configuration.txt",
+		"/C/wamp64/www/Website-Starter/dist/index.html",
+		"/C/wamp64/www/Website-Starter/src/index.html",
+		"/C/wamp64/www/Website-Starter/src/css/style.css",
+		"/C/wamp64/www/Website-Starter/src/js/main.js",
+		"/C/wamp64/www/Website-Starter/gulpfile.js",
+		"/C/wamp64/www/Website-Starter/bower.json",
+		"/C/Users/Leoche/Documents/Downloads/Image-Line FL Studio 12.1.2 Producer Edition - 32bit  64bit [ENG] [RegKey-R2R] [AT-TEAM]/AT-TEAM/Read iNFO.txt",
+		"/C/Users/Leoche/Documents/Downloads/Ableton Live 9 Suite v9.2.1 x64x86 Incl.Patch-iO [deepstatus]/Ableton Live 9 Suite v9.2.1 x64x86 Incl.Patch-iO [deepstatus]/Patch io/io.nfo",
+		"/C/Users/Leoche/AppData/Roaming/Minecraft_server/dynmap/lightings.txt",
+		"/C/Users/Leoche/AppData/Roaming/Minecraft_server/dynmap/perspectives.txt",
+		"/C/Users/Leoche/AppData/Roaming/Minecraft_server/dynmap/forgeworlds.yml",
+		"/C/wamp64/www/sendfil.es/Sendfiles/package.json",
+		"/C/wamp64/www/template_site/.gitignore",
+		"/C/wamp64/www/template_site/.gitattributes",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Leoche/AppData/Roaming/Minecraft_server/eula.txt",
+		"/C/wamp64/www/nationsglory/theme/site/css/main.css",
+		"/C/wamp64/www/nationsglory/configuration.php",
+		"/C/wamp64/www/nationsglory/site_router.php",
+		"/C/wamp64/www/nationsglory/components/site/sidebar.php",
+		"/C/wamp64/www/nationsglory/content/site/voter.php",
+		"/C/wamp64/www/nationsglory/theme/site/index.php",
+		"/C/wamp64/www/nationsglory/content/site/events/bonbon10.php",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-1/ignore.list",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-1/Config.php",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/wamp64/www/test.php",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-2/Route.php",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-2/ignore.list",
+		"/C/Users/Leoche/AppData/Local/Temp/fz3temp-2/Config.php",
+		"/C/Users/Leoche/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/C/wamp64/www/NationsGlory/content/site/voter2.php",
+		"/C/wamp64/www/nationsglory/utilitaire/utils.php",
+		"/C/wamp64/www/nationsglory/sftp-config.json",
+		"/C/wamp64/www/nationsglory/components/admin/sidebar.php",
+		"/C/wamp64/www/testmysql.php",
+		"/C/wamp64/www/NationsGlory/content/admin/site/resultatvotes.php",
+		"/C/wamp64/www/NationsGlory/a_supprimer.txt",
+		"/C/wamp64/www/nationsglory/.htaccess",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Leoche/Downloads/logs-black_30-04-2016_15h04.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" to ",
+			" or ",
+			"Press",
+			"optionnel",
+			"optionel",
+			"optionnel",
+			"optional",
+			"flat",
+			"missile",
+			"getDate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" pour ",
+			" ou ",
+			"Appuyez sur",
+			"facultatif",
+			"optionnel",
+			"optionel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "",
+	"project": "sendfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"site2/",
+				"theme\\site2\\index.php"
+			],
+			[
+				"main",
+				"theme\\site\\css\\main.css"
+			],
+			[
+				"main.css",
+				"theme\\site2\\css\\main.css"
+			],
+			[
+				"bonbon",
+				"content\\site\\events\\bonbon10.php"
+			],
+			[
+				"main.js",
+				"theme\\site\\js\\main.js"
+			],
+			[
+				"utils",
+				"utilitaire\\utils.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp64\\www\\sendfil.es\\sendfiles.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

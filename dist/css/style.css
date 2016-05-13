@@ -45,7 +45,7 @@ a:hover{
 	line-height: 42px;
 	font-size: 30px;
 	color:#7c838b;
-	margin-left: 110px;
+	margin-left: 85px;
 }
 .dropzone{
 	margin-top: 15px;
@@ -142,7 +142,7 @@ a:hover{
 .file a{
     text-decoration: none;
 }
-.file>.copy,.download{
+.file>.copy{
     position: absolute;
     top: 0;
     right: 0;
@@ -183,38 +183,8 @@ a:hover{
     font-size: 12px;
     color:#999;
 }
-.file>.copy:hover, .download:hover{
+.file>.copy:hover{
     background: #DE6363;
-}
-.file>.copy:active, .download:active{
-    background: #DE6363;
-}
-.filename{
-    font-weight:bold;
-    color:#777;
-    font-size:18px;
-    line-height: 24px;
-}
-.expires{
-    line-height: 24px;
-}
-.size{
-    font-size:14px;
-    line-height: 14px;
-}
-.md5{
-    font-size:12px;
-    color:#CCC;
-    line-height: 14px;
-}
-.download{
-    margin-top:15px;
-    border-radius: 3px;
-    position: static;
-    width: 100%;
-    height:50px;
-    line-height: 50px;
-    font-size:18px;
 }
 
 .pull-left{float:left;}
@@ -223,8 +193,6 @@ a:hover{
 .spacer{width: 100%;height: 10px;}
 .marged-left{margin-left:5px;}
 .marged-right{margin-right:5px;}
-.text-centered{text-align: center;}
-.big-icon{font-size:100px;width: 200px;height: 200px;margin:20px auto;line-height: 200px;border-radius: 50%;border:3px solid #EEE;}
 @font-face {
 	font-family: 'Ebrima-Bold';
 	src: url('fonts/Ebrima-Bold.eot?#iefix') format('embedded-opentype'),  url('fonts/Ebrima-Bold.woff') format('woff'), url('fonts/Ebrima-Bold.ttf')  format('truetype'), url('fonts/Ebrima-Bold.svg#Ebrima-Bold') format('svg');
@@ -298,7 +266,4 @@ a:hover{
 }
 .icon-note:before {
     content: "\e907";
-}
-.icon-note:before {
-    content: "\e005";
 }
