@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"D",
+				"DIRECTORY_SEPARATOR"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
 				"margin-",
 				"margin-left"
 			],
@@ -14,10 +38,6 @@
 			[
 				"backgrou",
 				"background-image"
-			],
-			[
-				"border",
-				"border-bottom"
 			],
 			[
 				"base",
@@ -32,10 +52,6 @@
 				"captcha_ok"
 			],
 			[
-				"json",
-				"json_decode"
-			],
-			[
 				"votes",
 				"votes_by_month"
 			]
@@ -43,6 +59,41 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/views/index.html",
+			"settings":
+			{
+				"buffer_size": 1386,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 1019,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/style.css",
+			"settings":
+			{
+				"buffer_size": 6299,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1687,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -51,17 +102,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 63.0,
-		"last_filter": "sideb",
+		"height": 88.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"sideb",
-				"View: Toggle Open Files in Side Bar"
+				"sidebar",
+				"View: Toggle Side Bar"
 			],
 			[
 				"side",
 				"Preferences: Settings - Default"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
 			],
 			[
 				"word",
@@ -101,10 +156,41 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/sendfil.es"
+		"/C/wamp64/www/sendfil.es",
+		"/C/wamp64/www/sendfil.es/bower_components",
+		"/C/wamp64/www/sendfil.es/dist/css",
+		"/C/wamp64/www/sendfil.es/dist/views",
+		"/C/wamp64/www/sendfil.es/src",
+		"/C/wamp64/www/sendfil.es/src/css",
+		"/C/wamp64/www/sendfil.es/src/img",
+		"/C/wamp64/www/sendfil.es/src/js",
+		"/C/wamp64/www/sendfil.es/src/views"
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/sendfil.es/src/index.html",
+		"/C/wamp64/www/sendfil.es/src/js/main.js",
+		"/C/wamp64/www/sendfil.es/src/views/file.html",
+		"/C/wamp64/www/sendfil.es/gulpfile.js",
+		"/C/wamp64/www/sendfil.es/dist/index.html",
+		"/C/wamp64/www/sendfil.es/dist/views/index.html",
+		"/C/wamp64/www/sendfil.es/dist/file.html",
+		"/C/wamp64/www/sendfil.es/dist/.htaccess",
+		"/C/wamp64/www/NationsGlory/content/site/users/inscription.php",
+		"/C/wamp64/www/sendfil.es/src/views/index.html",
+		"/C/wamp64/www/sendfil.es/dist/uploads/.htaccess",
+		"/C/wamp64/www/sendfil.es/src/endpoint.php",
+		"/C/wamp64/www/sendfil.es/bower.json",
+		"/C/wamp64/www/sendfil.es/src/css/style.css",
+		"/C/wamp64/www/sendfil.es/src/file.html",
+		"/C/wamp64/www/sendfil.es/src/hashids.lib.php",
+		"/C/wamp64/www/sendfil.es/dist/uploads/test.txt",
+		"/C/wamp64/bin/apache/apache2.4.17/conf/httpd.conf",
+		"/C/wamp64/www/NationsGlory/.htaccess",
+		"/C/wamp64/logs/apache_error.log",
+		"/C/wamp64/www/NationsGlory/content/site/pages.php",
+		"/C/wamp64/www/NationsGlory/configuration.php",
+		"/C/Users/Leoche/Downloads/logs-red_16-05-2016_10h18.txt",
 		"/C/Users/Leoche/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/wamp64/www/nationsglory/theme/site/js/main.js",
 		"/C/wamp64/www/Website-Starter/package.json",
@@ -160,7 +246,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -175,6 +261,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"php",
 			" to ",
 			" or ",
 			"Press",
@@ -208,8 +295,144 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								984
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 87.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								997,
+								997
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Monokai Extended.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -219,7 +442,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 32.0
 	},
 	"layout":
 	{
@@ -244,6 +467,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -300,7 +527,7 @@
 		[
 			[
 				"",
-				"C:\\wamp64\\www\\sendfil.es\\sendfiles.sublime-project"
+				"C:\\wamp64\\www\\NationsGlory\\utilitaire\\alois.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -321,7 +548,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 246.0,
 	"status_bar_visible": true,
 	"template_settings":

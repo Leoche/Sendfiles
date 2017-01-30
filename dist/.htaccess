@@ -1,0 +1,4 @@
+RewriteEngine On 
+RewriteRule ^end\/get\/([A-z0-9]+)$ endpoint.php?action=get&id=$1 [QSA,L]
+RewriteRule ^end\/upload$ endpoint.php?action=upload [QSA,L]
+RewriteRule ^([A-z0-9]+)$ file.php?id=$1 [QSA,L]

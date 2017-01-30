@@ -1,0 +1,32 @@
+<div class="spacer"></div>
+<div class="half pull-left"><span class="icon icon-server pull-left"></span> Free and unlimited
+    <div class="spacer"></div><span class="icon icon-umbrella pull-left"></span> Anonymous uploads</div>
+<div class="half pull-left"><span class="icon icon-clipboard pull-left"></span> One click copy/paste
+    <div class="spacer"></div><span class="icon icon-clock pull-left"></span> 30 mins volatile file</div>
+<div class="clear"></div>
+<div class="spacer"></div>
+<div class="spacer"></div><span>Upload</span>
+<form action="end/upload" class="dropzone" dropzone="dropzoneConfig">
+    <div class="icon icon-sound"></div>
+    <div class="icon icon-video"></div>
+    <div class="icon icon-note"></div>
+    <div class="icon icon-photo"></div>
+    <input type="file" name="file">
+</form>
+<div id="preview-template" style="display: none;"></div>
+<div id="progress_infos"><span class="pull-left">Ready</span> <span class="pull-right">0%</span>
+    <div class="clear"></div>
+    <div id="bar">
+        <div id="progress" style="width:1%"></div>
+    </div>
+</div>
+<div id="files" style="display:none"><span>Files</span>
+    <div class="file">
+        <div class="icon"></div>
+        <div class="link">
+        	<span>Fichier.exe</span>
+            <br>http://localhost:3000/
+        </div>
+        <a href="#" class="copy"><i class="icon-link"></i></a>
+    </div>
+</div>

@@ -24,6 +24,9 @@
     "jquery": "^2.2.3",
     "normalize-css": "^4.1.1",
     "dropzone": "^4.3.0",
-    "humane-js": "humane#^3.2.2"
+    "humane-js": "humane#^3.2.2",
+    "angular": "angularjs#^1.5.5",
+    "angular-route": "^1.6.1",
+    "angular-dropzone": "^0.1.2"
   }
 }

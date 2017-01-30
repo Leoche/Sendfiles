@@ -54,6 +54,8 @@ a:hover{
 	border-radius:5px;
     position: relative;
     height:150px;
+    min-height: 150px;
+    transition: all .2s !important;
 }
 .dropzone .dz-default{
     position: absolute;
@@ -61,9 +63,21 @@ a:hover{
     pointer-events: none;
     width: 100%;
     color:#666;
+    opacity: 1 !important;
     left: 0;
     text-align: center;
-    transition: all .5s;
+    transition: all .5s !important;
+    height: 50px !important;
+    top:auto !important;
+}
+.dropzone:hover{
+    box-shadow: 0 2px 5px rgba(0,0,0,.2) !important;
+}
+.dropzone:active{
+    box-shadow: 0 1px 2px rgba(0,0,0,.2) !important;
+}
+.dropzone .dz-default>span{
+    display: block !important;
 }
 .dropzone .icon{
     font-size: 42px;
@@ -105,7 +119,7 @@ a:hover{
 
 .dropzone.dz-drag-hover .dz-default, .dropzone:hover .dz-default{
     color:#AAA;
-    bottom: -20px;
+    bottom: -10px;
 }
 .dropzone input{
 	display:none;
